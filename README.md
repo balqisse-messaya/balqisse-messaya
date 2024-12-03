@@ -13,10 +13,6 @@ Je suis en apprentissage en cybersécurité, passionnée par la technologie et l
 <p align="center">
   <a href="https://linkedin.com/in/balqisse-messaya" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balqisse messaya" height="30" width="40" />
-  </a>
-  <a href="https://github.com/balqisse-messaya" target="_blank">
-    <img src="![GitHub-logo](https://github.com/user-attachments/assets/4f9228aa-dc3a-44fe-a14f-9275c184bd8e)" alt="balqisse-messaya" height="30" width="40" />
-
 </p>
 
 ## Languages and Tools:
