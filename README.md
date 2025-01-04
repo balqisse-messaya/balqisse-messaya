@@ -1,7 +1,7 @@
 ![Ma bannière](banner.png)
 # Balqisse Messaya
 
-Je suis en apprentissage en cybersécurité, passionnée par la technologie et l'administration des systèmes. Actuellement en formation à la plateforme, j'ai déjà acquis des compétences en Linux, Windows sur VMware, TicTacToe, Python et développement web (HTML, CSS), création de CV et de FanSite. Mon objectif est de contribuer à des projets open source et de me spécialiser en cybersécurité pour assurer la sécurité des systèmes et des réseaux.
+Je suis en apprentissage en développement logiciel, passionnée par la conception et la création d'application. Actuellement en formation à la plateforme, j'ai déjà acquis des compétences en Linux, Windows sur VMware, TicTacToe, Python et développement web (HTML, CSS), création de CV et de FanSite. Mon objectif est de devenir dèveloppeuse experte, de contribuer à des projets open source, et de concevoir des solutions logicielles innovantes pour répondre aux besoins des utilisateurs.
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
