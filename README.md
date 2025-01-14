@@ -1,7 +1,7 @@
 ![Ma bannière](banner.png)
 # Balqisse Messaya
 
-Je suis en apprentissage en développement logiciel, avec un focus spécifique sur la CYBERSECURITE, notamment dans le domaine des réseaux, afin d'atteindre un niveau d'excellence en cybersécurité. J'ai acquis des compétences en Python, HTML, CSS, ainsi qu'en gestion de machines virtuelles sur Debian, Linus et Windows. J 'ai également réalisé des projets de développements et de mini-réalisations comme la création d'une horloge, d'une calculatrice...
+Je suis en apprentissage en développement logiciel, avec un focus spécifique sur la CYBERSECURITE, notamment dans le domaine des réseaux, afin d'atteindre un niveau d'excellence en cybersécurité. J'ai acquis des compétences en Python, HTML, CSS, ainsi qu'en gestion de machines virtuelles sur Debian, Linus et Windows. J 'ai également réalisé des projets de développements logiciel avec des mini-réalisations comme la création d'une horloge et d'une calculatrice...
 En parrallèle, je suis en cours de passer une certification "CompTIA Security+" et je travaille sur d'autres projets en cybersécurité. Mon objectif est de devenir experte en cybersécurité et de contribuer à la sécurité des réseaux.
 
 <p align="center">
