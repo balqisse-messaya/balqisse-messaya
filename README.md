@@ -15,7 +15,7 @@ Voici mon portofolio : https://balqisse-messaya.github.io/mon_portfolio/
 ## Me contacter:
 
 <p align="center">
-  <a href="https://linkedin.com/in/balqisse-messaya" target="_blank">
+  <a href="[https://linkedin.com/in/balqisse-messaya](https://www.linkedin.com/in/balqisse-messaya-09a641280/)" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balqisse messaya" height="30" width="40" />
 </p>
 
