@@ -52,7 +52,7 @@ Je suis à la recherche de nouvelles opportunités pour utiliser mes compétence
 📬 **Contact** :  
 - **Email** : [balqisse.messaya@laplateforme.io](mailto:balqisse.messaya@laplateforme.io)  
 - **Numéro** : 07 59 53 37 43  
-- **LinkedIn** : [Balqisse Messaya](https://www.linkedin.com/in/balqisse-messaya)  
+- **LinkedIn** : [Balqisse Messaya](https://www.linkedin.com/in/balqisse-messaya-09a641280/  
 - **Portfolio** : [Portfolio en construction](https://ton-portfolio-en-construction.com) 
 
 
