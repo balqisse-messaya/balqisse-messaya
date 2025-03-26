@@ -10,7 +10,8 @@
 Développement d'un jeu inspiré de **Pokémon** en utilisant **Python** et **Pygame** pour gérer les interactions, les images et l'interface graphique. Ce projet m'a permis de renforcer mes compétences en **programmation orientée objet** et en développement de jeux.
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/![logopygame](https://github.com/user-attachments/assets/26b6a5e5-650f-42c5-ae9c-6e8f0e6d7b06)
+    [pythonlogo](https://github.com/user-attachments/assets/52f5cd4c-47f1-4994-b226-7d606d373c2a)
+
 " width="50" height="50" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/![pygamelogo](https://github.com/user-attachments/assets/78dcce6e-0937-43cf-979c-ac931a43f30e)
 " width="50" height="50" />
