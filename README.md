@@ -9,7 +9,8 @@
 ### 🎮 **Pokémon - Jeu en Python avec Pygame**
 Développement d'un jeu inspiré de **Pokémon** en utilisant **Python** et **Pygame** pour gérer les interactions, les images et l'interface graphique. Ce projet m'a permis de renforcer mes compétences en **programmation orientée objet** et en développement de jeux.
 
-![Pygame Logo](https://upload.wikimedia.org/wikipedia/commons/e/ec/Pygame_logo.png)
+![Pygame Logo]![logopygame](https://github.com/user-attachments/assets/f320327c-f3c4-4783-9f5e-607cee1a97be)
+)
 
 ---
 
