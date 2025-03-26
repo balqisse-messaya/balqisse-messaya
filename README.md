@@ -1,62 +1,66 @@
-![Ma bannière](banner.png)
-# Balqisse Messaya
+# Salut, je suis **Balqisse Messaya** 👩‍💻
 
-Je suis en apprentissage en développement logiciel/cybersécurité, avec un focus spécifique sur la CYBERSECURITE, notamment dans le domaine des réseaux, afin d'atteindre un niveau d'excellence en cybersécurité. J'ai acquis des compétences en Python, HTML, CSS, ainsi qu'en gestion de machines virtuelles sur Debian, Linus et Windows. J 'ai également réalisé des projets de développements logiciel avec des mini-réalisations comme la création d'une horloge et d'une calculatrice...
-En parrallèle, je suis en cours de passer une certification "CompTIA Security+" et je travaille sur d'autres projets en cybersécurité. Mon objectif est de devenir experte en cybersécurité et de contribuer à la sécurité des réseaux.
+Étudiante en **Développement Logiciel**, je crée des projets qui combinent **création de jeux**, **interfaces interactives** et **applications pratiques**. Voici un aperçu de mes réalisations :
 
-Voici mon portofolio : https://balqisse-messaya.github.io/mon_portfolio/
+---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=balqisse-messaya" alt="balqisse-messaya" />
-  </a>
-</p>
+## 🏆 Mes réalisations :
 
-## Me contacter:
+### 🎮 **Pokémon - Jeu en Python avec Pygame**
+Développement d'un jeu inspiré de **Pokémon** en utilisant **Python** et **Pygame** pour gérer les interactions, les images et l'interface graphique. Ce projet m'a permis de renforcer mes compétences en **programmation orientée objet** et en développement de jeux.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/balqisse-messaya" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balqisse messaya" height="30" width="40" />
-</p>
+![Pygame Logo](https://upload.wikimedia.org/wikipedia/commons/e/ec/Pygame_logo.png)
 
-## Languages and Tools:
+---
 
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
+### 💳 **Budget Buddy - Application de gestion bancaire**
+Création d'une application pour gérer un budget personnel, simuler des transactions et effectuer des opérations sécurisées. Ce projet m'a permis de travailler sur la **gestion des comptes** et la **sécurisation des données**.
 
-## Mes statistiques GitHub:
+![Java Logo](https://upload.wikimedia.org/wikipedia/commons/4/45/Java_logo_icon.png)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balqisse-messaya&show_icons=true&locale=en&layout=compact" alt="balqisse-messaya" />
-</p>
+---
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=balqisse-messaya&show_icons=true&locale=en" alt="balqisse-messaya" />
-</p>
+### ⏰ **Horloge de Mamie - Horloge interactive en Python**
+Développement d'une horloge digitale interactive avec **Pygame** et **Tkinter**, permettant l'affichage en temps réel, des alarmes, et une interface personnalisée. Ce projet a amélioré mes compétences en **création d'interfaces utilisateur** et **programmation événementielle**.
+
+![Tkinter Logo](https://upload.wikimedia.org/wikipedia/commons/9/9b/Tkinter_logo.svg)
+
+---
+
+### 🧮 **Calculatrice - Application de calcul**
+Création d'une **calculatrice** simple en **Python** avec une interface graphique via **Tkinter**, permettant les opérations de base. Ce projet m'a permis de perfectionner mes compétences en **interface graphique** et **développement d'applications simples**.
+
+---
+
+### 🔠 **Jeu du Pendu - Jeu en Python**
+Développement du **jeu du pendu** en Python, où l'utilisateur doit deviner un mot en proposant des lettres. Ce projet m'a permis de pratiquer mes compétences en **logique de programmation** et **gestion de chaînes de caractères**.
+
+---
+
+### 🍉 **Fruit Slicer - Jeu de découpe de fruits**
+Développement d'un jeu inspiré des jeux de découpe de fruits, en utilisant **Python** et **Pygame**. Ce projet a mis en valeur mes compétences en **création de jeux interactifs** et **animations graphiques**.
+
+![Pygame Logo](https://upload.wikimedia.org/wikipedia/commons/e/ec/Pygame_logo.png)
+
+---
+
+## 🏅 Compétences techniques acquises :
+
+- **Langages de programmation** : Python, Java, C, C++
+- **Frameworks** : Pygame, Tkinter
+- **Technologies web** : HTML, CSS
+- **Cybersécurité** : CVSS
+- **Virtualisation** : VMware (sur **Windows** et **Linux**)
+
+## 💡 Objectifs :
+Je suis à la recherche de nouvelles opportunités pour utiliser mes compétences dans des projets innovants, notamment dans les domaines de **la cybersécurité**, du **développement logiciel** et de la **création de jeux interactifs**.
+
+---
+
+📬 **Contact** :  
+- **Email** : [balqisse.messaya@laplateforme.io](mailto:balqisse.messaya@laplateforme.io)  
+- **Numéro** : 07 59 53 37 43  
+- **LinkedIn** : [Balqisse Messaya](https://www.linkedin.com/in/balqisse-messaya)  
+- **Portfolio** : [Portfolio en construction](https://ton-portfolio-en-construction.com) *(lien à mettre à jour une fois ton portfolio prêt)*
+
+
