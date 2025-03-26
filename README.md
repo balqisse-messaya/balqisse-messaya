@@ -45,7 +45,7 @@ Développement d'un jeu inspiré des jeux de découpe de fruits, en utilisant **
 - **Virtualisation** : VMware (sur **Windows** et **Linux**)
 
 ## 💡 Objectifs :
-Je suis à la recherche de nouvelles opportunités pour utiliser mes compétences dans des projets innovants, notamment dans les domaines de **la cybersécurité**, du **développement logiciel** et de la **création de jeux interactifs**.
+Je suis à la recherche de nouvelles opportunités pour utiliser mes compétences dans des projets innovants, notamment dans les domaines du **développement logiciel**, de la **sécurité des systèmes** et de la **création de jeux interactifs**.
 
 ---
 
