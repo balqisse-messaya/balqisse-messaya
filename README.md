@@ -9,7 +9,8 @@
 ### 🎮 **Pokémon - Jeu en Python avec Pygame**
 Développement d'un jeu inspiré de **Pokémon** en utilisant **Python** et **Pygame** pour gérer les interactions, les images et l'interface graphique. Ce projet m'a permis de renforcer mes compétences en **programmation orientée objet** et en développement de jeux.
 
-![Pygame]![logopygame](https://github.com/user-attachments/assets/f320327c-f3c4-4783-9f5e-607cee1a97be)
+[pygamelogo](https://github.com/user-attachments/assets/b8405365-7384-4e26-ae03-4a90982e57ec)
+[logopygame](https://github.com/user-attachments/assets/f320327c-f3c4-4783-9f5e-607cee1a97be)
 
 
 ---
@@ -17,7 +18,8 @@ Développement d'un jeu inspiré de **Pokémon** en utilisant **Python** et **Py
 ### 💳 **Budget Buddy - Application de gestion bancaire**
 Création d'une application pour gérer un budget personnel, simuler des transactions et effectuer des opérations sécurisées. Ce projet m'a permis de travailler sur la **gestion des comptes** et la **sécurisation des données**.
 
-![Tkinter]![tkinterlogo](https://github.com/user-attachments/assets/fece07b8-a779-49a3-add6-9a10b35e30e7)
+[pygamelogo](https://github.com/user-attachments/assets/b8405365-7384-4e26-ae03-4a90982e57ec)
+[tkinterlogo](https://github.com/user-attachments/assets/fece07b8-a779-49a3-add6-9a10b35e30e7)
 
 
 ---
@@ -25,7 +27,8 @@ Création d'une application pour gérer un budget personnel, simuler des transac
 ### ⏰ **Horloge de Mamie - Horloge interactive en Python**
 Développement d'une horloge digitale interactive avec **Pygame** et **Tkinter**, permettant l'affichage en temps réel, des alarmes, et une interface personnalisée. Ce projet a amélioré mes compétences en **création d'interfaces utilisateur** et **programmation événementielle**.
 
-![Tkinter]![tkinterlogo](https://github.com/user-attachments/assets/9817e3cb-0a48-4d0c-a090-679bf1c841a7)
+[pygamelogo](https://github.com/user-attachments/assets/b8405365-7384-4e26-ae03-4a90982e57ec)
+[tkinterlogo](https://github.com/user-attachments/assets/9817e3cb-0a48-4d0c-a090-679bf1c841a7)
 
 
 ---
@@ -33,18 +36,21 @@ Développement d'une horloge digitale interactive avec **Pygame** et **Tkinter**
 ### 🧮 **Calculatrice - Application de calcul**
 Création d'une **calculatrice** simple en **Python** avec une interface graphique via **Tkinter**, permettant les opérations de base. Ce projet m'a permis de perfectionner mes compétences en **interface graphique** et **développement d'applications simples**.
 
+[pygamelogo](https://github.com/user-attachments/assets/b8405365-7384-4e26-ae03-4a90982e57ec)
+[logopygame](https://github.com/user-attachments/assets/f320327c-f3c4-4783-9f5e-607cee1a97be)
 ---
 
 ### 🔠 **Jeu du Pendu - Jeu en Python**
 Développement du **jeu du pendu** en Python, où l'utilisateur doit deviner un mot en proposant des lettres. Ce projet m'a permis de pratiquer mes compétences en **logique de programmation** et **gestion de chaînes de caractères**.
-![Pygame]!![pygamelogo](https://github.com/user-attachments/assets/f9926e17-62ae-4986-8bbe-b33f55650929)
+[logopygame](https://github.com/user-attachments/assets/f320327c-f3c4-4783-9f5e-607cee1a97be)
+[tkinterlogo](https://github.com/user-attachments/assets/9817e3cb-0a48-4d0c-a090-679bf1c841a7)
 
 ---
 
 ### 🍉 **Fruit Slicer - Jeu de découpe de fruits**
 Développement d'un jeu inspiré des jeux de découpe de fruits, en utilisant **Python** et **Pygame**. Ce projet a mis en valeur mes compétences en **création de jeux interactifs** et **animations graphiques**.
 
-![Pygame]!![pygamelogo](https://github.com/user-attachments/assets/b8405365-7384-4e26-ae03-4a90982e57ec)
+[pygamelogo](https://github.com/user-attachments/assets/b8405365-7384-4e26-ae03-4a90982e57ec)
 
 
 
