@@ -9,55 +9,30 @@
 ### 🎮 **Pokémon - Jeu en Python avec Pygame**
 Développement d'un jeu inspiré de **Pokémon** en utilisant **Python** et **Pygame** pour gérer les interactions, les images et l'interface graphique. Ce projet m'a permis de renforcer mes compétences en **programmation orientée objet** et en développement de jeux.
 
-<p align="center">
-    <img src="![logopygame](https://github.com/user-attachments/assets/00f4e467-690b-4bab-b739-d4e122918e01)
-" width="50" height="50" />
-</p>
-
 ---
 
 ### 💳 **Budget Buddy - Application de gestion bancaire**
 Création d'une application pour gérer un budget personnel, simuler des transactions et effectuer des opérations sécurisées. Ce projet m'a permis de travailler sur la **gestion des comptes** et la **sécurisation des données**.
-
-<p align="center">
-    <img src="assets/images/tkinter_logo.svg" width="50" height="50" />
-</p>
 
 ---
 
 ### ⏰ **Horloge de Mamie - Horloge interactive en Python**
 Développement d'une horloge digitale interactive avec **Python** et **Tkinter**, permettant l'affichage en temps réel, des alarmes, et une interface personnalisée. Ce projet a amélioré mes compétences en **création d'interfaces utilisateur** et **programmation événementielle**.
 
-<p align="center">
-    <img src="assets/images/tkinter_logo.svg" width="50" height="50" />
-</p>
-
 ---
 
 ### 🧮 **Calculatrice - Application de calcul**
 Création d'une **calculatrice** simple en **Python** avec une interface graphique via **Tkinter**, permettant les opérations de base. Ce projet m'a permis de perfectionner mes compétences en **interface graphique** et **développement d'applications simples**.
-
-<p align="center">
-    <img src="assets/images/tkinter_logo.svg" width="50" height="50" />
-</p>
 
 ---
 
 ### 🔠 **Jeu du Pendu - Jeu en Python**
 Développement du **jeu du pendu** en **Python** et **Pygame**, où l'utilisateur doit deviner un mot en proposant des lettres. Ce projet m'a permis de pratiquer mes compétences en **logique de programmation** et **gestion de chaînes de caractères**.
 
-<p align="center">
-    <img src="assets/images/pygame_logo.png" width="50" height="50" />
-</p>
-
 ---
 
 ### 🍉 **Fruit Slicer - Jeu de découpe de fruits**
 Développement d'un jeu inspiré des jeux de découpe de fruits, en utilisant **Python** et **Pygame**. Ce projet a mis en valeur mes compétences en **création de jeux interactifs** et **animations graphiques**.
-
-<p align="center">
-    <img src="assets/images/pygame_logo.png" width="50" height="50" />
-</p>
 
 ---
 
